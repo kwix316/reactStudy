@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name":"김 이름",
+    "age": 20,
+    "personalColor":"red",
+  },
+  {
+    "id": 2,
+    "name":"김 이름2",
+    "age": 30
+  },
+   {
+    "id": 3,
+    "name":"김 이름3",
+    "age": 40,
+    "personalColor":"puple",
+  },
+    {
+    "id": 4,
+    "name":"김 이름4",
+    "age": 50,
+    "personalColor":"blue",
+  }
+]
