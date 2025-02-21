@@ -1,25 +1,24 @@
 [
-  {
-    "id" : 1,
-    "name" : "김 희애",
-    "age" : 50,
-    "personalColor" : "red"
-  },
-   {
-    "id" : 2,
-    "name" : "전 지현",
-    "age" : 45
-  },
-  {
-    "id" : 3,
-    "name" : "송 혜교",
-    "age" : 40,
-    "personalColor" : "purple"
-  },
-  {
-    "id" : 4,
-    "name" : "한 가인",
-    "age" : 48,
-    "personalColor" : "skyblue"
-  }
+	{"id":555,
+	"name":"김 태리",
+	"age":24
+	},
+	{"id":2,
+	"name":"김 희애",
+	"age":40,
+	"personalColor":"hotpink",
+	"hobbies": ["여행"]
+	},
+	{"id":3,
+	"name":"한 가인",
+	"age":30,
+	"personalColor":"pink",
+	"hobbies": ["게임", "축구"]
+	},
+	{"id":4,
+	"name":"송 혜교",
+	"age":35,
+	"personalColor":"purple",
+	"hobbies": ["영화보기", "피아노치기"]
+	}
 ]
